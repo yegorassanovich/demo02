@@ -1,1 +1,2 @@
 "hello from yegor" 
+"goodbye from yegor" 
